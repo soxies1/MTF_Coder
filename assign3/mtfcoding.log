@@ -1,0 +1,7 @@
+2015-03-06 19:19:15,314: In encode_main
+2015-03-06 19:19:15,341: Name of file read is teat.txt
+2015-03-06 19:19:15,342: Output file named teat.mtf created
+2015-03-06 19:19:15,342: Wrote mtf magic number
+2015-03-06 19:19:15,342: Encoding line 1 of in file
+2015-03-06 19:19:15,342: Completed file encoding
+2015-03-06 19:19:15,342: File encoded successfully

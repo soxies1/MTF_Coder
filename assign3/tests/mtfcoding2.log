@@ -1,0 +1,1020 @@
+2015-03-17 14:45:43,760: In decode_main
+2015-03-17 14:45:43,761: Is proper input file
+2015-03-17 14:45:43,761: Decoding: test00.mtf
+2015-03-17 14:45:43,761: Input file read
+2015-03-17 14:45:43,761: Output file name is: test00.txt
+2015-03-17 14:45:43,761: File decoded successfully
+2015-03-17 14:45:43,761: Number of lines decoded: 1
+2015-03-17 14:45:43,761: Number of total words decoded: 10
+2015-03-17 14:45:43,762: Number of total unique words decoded: 7
+2015-03-17 14:45:43,814: In decode_main
+2015-03-17 14:45:43,814: Is proper input file
+2015-03-17 14:45:43,814: Decoding: test01.mtf
+2015-03-17 14:45:43,814: Input file read
+2015-03-17 14:45:43,814: Output file name is: test01.txt
+2015-03-17 14:45:43,815: File decoded successfully
+2015-03-17 14:45:43,815: Number of lines decoded: 1
+2015-03-17 14:45:43,815: Number of total words decoded: 1
+2015-03-17 14:45:43,815: Number of total unique words decoded: 1
+2015-03-17 14:45:43,867: In decode_main
+2015-03-17 14:45:43,868: Is proper input file
+2015-03-17 14:45:43,868: Decoding: test02.mtf
+2015-03-17 14:45:43,868: Input file read
+2015-03-17 14:45:43,868: Output file name is: test02.txt
+2015-03-17 14:45:43,868: File decoded successfully
+2015-03-17 14:45:43,868: Number of lines decoded: 1
+2015-03-17 14:45:43,869: Number of total words decoded: 3
+2015-03-17 14:45:43,869: Number of total unique words decoded: 1
+2015-03-17 14:45:43,922: In decode_main
+2015-03-17 14:45:43,923: Is proper input file
+2015-03-17 14:45:43,923: Decoding: test03.mtf
+2015-03-17 14:45:43,923: Input file read
+2015-03-17 14:45:43,923: Output file name is: test03.txt
+2015-03-17 14:45:43,924: File decoded successfully
+2015-03-17 14:45:43,924: Number of lines decoded: 3
+2015-03-17 14:45:43,924: Number of total words decoded: 3
+2015-03-17 14:45:43,924: Number of total unique words decoded: 1
+2015-03-17 14:45:43,979: In decode_main
+2015-03-17 14:45:43,979: Is proper input file
+2015-03-17 14:45:43,980: Decoding: test04.mtf
+2015-03-17 14:45:43,980: Input file read
+2015-03-17 14:45:43,980: Output file name is: test04.txt
+2015-03-17 14:45:43,980: File decoded successfully
+2015-03-17 14:45:43,980: Number of lines decoded: 1
+2015-03-17 14:45:43,981: Number of total words decoded: 4
+2015-03-17 14:45:43,981: Number of total unique words decoded: 4
+2015-03-17 14:45:44,036: In decode_main
+2015-03-17 14:45:44,036: Is proper input file
+2015-03-17 14:45:44,036: Decoding: test05.mtf
+2015-03-17 14:45:44,037: Input file read
+2015-03-17 14:45:44,037: Output file name is: test05.txt
+2015-03-17 14:45:44,037: File decoded successfully
+2015-03-17 14:45:44,037: Number of lines decoded: 4
+2015-03-17 14:45:44,037: Number of total words decoded: 4
+2015-03-17 14:45:44,037: Number of total unique words decoded: 4
+2015-03-17 14:45:44,091: In decode_main
+2015-03-17 14:45:44,091: Is proper input file
+2015-03-17 14:45:44,091: Decoding: test06.mtf
+2015-03-17 14:45:44,091: Input file read
+2015-03-17 14:45:44,091: Output file name is: test06.txt
+2015-03-17 14:45:44,091: File decoded successfully
+2015-03-17 14:45:44,092: Number of lines decoded: 15
+2015-03-17 14:45:44,092: Number of total words decoded: 13
+2015-03-17 14:45:44,092: Number of total unique words decoded: 4
+2015-03-17 14:45:44,144: In decode_main
+2015-03-17 14:45:44,144: Is proper input file
+2015-03-17 14:45:44,144: Decoding: test07.mtf
+2015-03-17 14:45:44,145: Input file read
+2015-03-17 14:45:44,145: Output file name is: test07.txt
+2015-03-17 14:45:44,145: File decoded successfully
+2015-03-17 14:45:44,145: Number of lines decoded: 4
+2015-03-17 14:45:44,145: Number of total words decoded: 23
+2015-03-17 14:45:44,145: Number of total unique words decoded: 20
+2015-03-17 14:45:44,198: In decode_main
+2015-03-17 14:45:44,199: Is proper input file
+2015-03-17 14:45:44,199: Decoding: test08.mtf
+2015-03-17 14:45:44,199: Input file read
+2015-03-17 14:45:44,199: Output file name is: test08.txt
+2015-03-17 14:45:44,200: File decoded successfully
+2015-03-17 14:45:44,200: Number of lines decoded: 9
+2015-03-17 14:45:44,200: Number of total words decoded: 44
+2015-03-17 14:45:44,200: Number of total unique words decoded: 32
+2015-03-17 14:45:44,256: In decode_main
+2015-03-17 14:45:44,257: Is proper input file
+2015-03-17 14:45:44,257: Decoding: test09.mtf
+2015-03-17 14:45:44,257: Input file read
+2015-03-17 14:45:44,257: Output file name is: test09.txt
+2015-03-17 14:45:44,258: File decoded successfully
+2015-03-17 14:45:44,258: Number of lines decoded: 36
+2015-03-17 14:45:44,258: Number of total words decoded: 154
+2015-03-17 14:45:44,258: Number of total unique words decoded: 71
+2015-03-17 14:45:44,317: In decode_main
+2015-03-17 14:45:44,317: Is proper input file
+2015-03-17 14:45:44,317: Decoding: test10.mtf
+2015-03-17 14:45:44,318: Input file read
+2015-03-17 14:45:44,318: Output file name is: test10.txt
+2015-03-17 14:45:44,319: File decoded successfully
+2015-03-17 14:45:44,319: Number of lines decoded: 72
+2015-03-17 14:45:44,320: Number of total words decoded: 329
+2015-03-17 14:45:44,320: Number of total unique words decoded: 112
+2015-03-17 14:45:44,375: In decode_main
+2015-03-17 14:45:44,375: Is proper input file
+2015-03-17 14:45:44,375: Decoding: test11.mtf
+2015-03-17 14:45:44,375: Input file read
+2015-03-17 14:45:44,375: Output file name is: test11.txt
+2015-03-17 14:45:44,377: File decoded successfully
+2015-03-17 14:45:44,378: Number of lines decoded: 200
+2015-03-17 14:45:44,378: Number of total words decoded: 200
+2015-03-17 14:45:44,378: Number of total unique words decoded: 200
+2015-03-17 14:45:44,432: In decode_main
+2015-03-17 14:45:44,432: Is proper input file
+2015-03-17 14:45:44,432: Decoding: test12.mtf
+2015-03-17 14:45:44,432: Input file read
+2015-03-17 14:45:44,433: Output file name is: test12.txt
+2015-03-17 14:45:44,434: File decoded successfully
+2015-03-17 14:45:44,434: Number of lines decoded: 20
+2015-03-17 14:45:44,435: Number of total words decoded: 200
+2015-03-17 14:45:44,435: Number of total unique words decoded: 200
+2015-03-17 14:45:44,488: In decode_main
+2015-03-17 14:45:44,488: Is proper input file
+2015-03-17 14:45:44,488: Decoding: test13.mtf
+2015-03-17 14:45:44,489: Input file read
+2015-03-17 14:45:44,489: Output file name is: test13.txt
+2015-03-17 14:45:44,492: File decoded successfully
+2015-03-17 14:45:44,492: Number of lines decoded: 400
+2015-03-17 14:45:44,492: Number of total words decoded: 400
+2015-03-17 14:45:44,492: Number of total unique words decoded: 400
+2015-03-17 14:45:44,548: In decode_main
+2015-03-17 14:45:44,548: Is proper input file
+2015-03-17 14:45:44,548: Decoding: test14.mtf
+2015-03-17 14:45:44,548: Input file read
+2015-03-17 14:45:44,548: Output file name is: test14.txt
+2015-03-17 14:45:44,551: File decoded successfully
+2015-03-17 14:45:44,552: Number of lines decoded: 43
+2015-03-17 14:45:44,552: Number of total words decoded: 400
+2015-03-17 14:45:44,552: Number of total unique words decoded: 400
+2015-03-17 14:45:44,606: In decode_main
+2015-03-17 14:45:44,607: Is proper input file
+2015-03-17 14:45:44,607: Decoding: test15.mtf
+2015-03-17 14:45:44,607: Input file read
+2015-03-17 14:45:44,607: Output file name is: test15.txt
+2015-03-17 14:45:45,314: File decoded successfully
+2015-03-17 14:45:45,314: Number of lines decoded: 29999
+2015-03-17 14:45:45,314: Number of total words decoded: 29999
+2015-03-17 14:45:45,314: Number of total unique words decoded: 29999
+2015-03-17 14:45:45,382: In decode_main
+2015-03-17 14:45:45,383: Is proper input file
+2015-03-17 14:45:45,383: Decoding: test16.mtf
+2015-03-17 14:45:45,383: Input file read
+2015-03-17 14:45:45,383: Output file name is: test16.txt
+2015-03-17 14:45:45,388: File decoded successfully
+2015-03-17 14:45:45,388: Number of lines decoded: 342
+2015-03-17 14:45:45,389: Number of total words decoded: 1620
+2015-03-17 14:45:45,389: Number of total unique words decoded: 251
+2015-03-17 14:45:45,445: In decode_main
+2015-03-17 14:45:45,445: Is proper input file
+2015-03-17 14:45:45,445: Decoding: test17.mtf
+2015-03-17 14:45:45,445: Input file read
+2015-03-17 14:45:45,445: Output file name is: test17.txt
+2015-03-17 14:45:45,450: File decoded successfully
+2015-03-17 14:45:45,450: Number of lines decoded: 72
+2015-03-17 14:45:45,450: Number of total words decoded: 590
+2015-03-17 14:45:45,450: Number of total unique words decoded: 415
+2015-03-17 14:45:45,524: In decode_main
+2015-03-17 14:45:45,524: Is proper input file
+2015-03-17 14:45:45,524: Decoding: test18.mtf
+2015-03-17 14:45:45,525: Input file read
+2015-03-17 14:45:45,525: Output file name is: test18.txt
+2015-03-17 14:45:45,597: File decoded successfully
+2015-03-17 14:45:45,597: Number of lines decoded: 979
+2015-03-17 14:45:45,597: Number of total words decoded: 8172
+2015-03-17 14:45:45,598: Number of total unique words decoded: 3504
+2015-03-17 14:45:45,664: In decode_main
+2015-03-17 14:45:45,664: Is proper input file
+2015-03-17 14:45:45,665: Decoding: test19.mtf
+2015-03-17 14:45:45,665: Input file read
+2015-03-17 14:45:45,665: Output file name is: test19.txt
+2015-03-17 14:45:45,801: File decoded successfully
+2015-03-17 14:45:45,801: Number of lines decoded: 2622
+2015-03-17 14:45:45,801: Number of total words decoded: 17675
+2015-03-17 14:45:45,801: Number of total unique words decoded: 4905
+2015-03-17 14:46:00,206: In encode_main
+2015-03-17 14:46:00,206: Is proper input file
+2015-03-17 14:46:00,207: Name of file read is test00.txt
+2015-03-17 14:46:00,207: Encoding: test00.txt
+2015-03-17 14:46:00,207: Output file named test00.mtf created
+2015-03-17 14:46:00,207: Wrote mtf magic number
+2015-03-17 14:46:00,207: Completed file encoding
+2015-03-17 14:46:00,207: File encoded successfully
+2015-03-17 14:46:00,207: Number of lines encoded: 1
+2015-03-17 14:46:00,207: Number of total words encoded: 10
+2015-03-17 14:46:00,207: Number of total unique words encoded: 7
+2015-03-17 14:46:00,261: In encode_main
+2015-03-17 14:46:00,261: Is proper input file
+2015-03-17 14:46:00,262: Name of file read is test01.txt
+2015-03-17 14:46:00,262: Encoding: test01.txt
+2015-03-17 14:46:00,262: Output file named test01.mtf created
+2015-03-17 14:46:00,262: Wrote mtf magic number
+2015-03-17 14:46:00,263: Completed file encoding
+2015-03-17 14:46:00,263: File encoded successfully
+2015-03-17 14:46:00,263: Number of lines encoded: 1
+2015-03-17 14:46:00,263: Number of total words encoded: 1
+2015-03-17 14:46:00,263: Number of total unique words encoded: 1
+2015-03-17 14:46:00,319: In encode_main
+2015-03-17 14:46:00,320: Is proper input file
+2015-03-17 14:46:00,320: Name of file read is test02.txt
+2015-03-17 14:46:00,320: Encoding: test02.txt
+2015-03-17 14:46:00,320: Output file named test02.mtf created
+2015-03-17 14:46:00,320: Wrote mtf magic number
+2015-03-17 14:46:00,320: Completed file encoding
+2015-03-17 14:46:00,321: File encoded successfully
+2015-03-17 14:46:00,321: Number of lines encoded: 1
+2015-03-17 14:46:00,321: Number of total words encoded: 3
+2015-03-17 14:46:00,321: Number of total unique words encoded: 1
+2015-03-17 14:46:00,373: In encode_main
+2015-03-17 14:46:00,373: Is proper input file
+2015-03-17 14:46:00,373: Name of file read is test03.txt
+2015-03-17 14:46:00,373: Encoding: test03.txt
+2015-03-17 14:46:00,373: Output file named test03.mtf created
+2015-03-17 14:46:00,374: Wrote mtf magic number
+2015-03-17 14:46:00,374: Completed file encoding
+2015-03-17 14:46:00,374: File encoded successfully
+2015-03-17 14:46:00,374: Number of lines encoded: 3
+2015-03-17 14:46:00,374: Number of total words encoded: 3
+2015-03-17 14:46:00,374: Number of total unique words encoded: 1
+2015-03-17 14:46:00,431: In encode_main
+2015-03-17 14:46:00,431: Is proper input file
+2015-03-17 14:46:00,431: Name of file read is test04.txt
+2015-03-17 14:46:00,432: Encoding: test04.txt
+2015-03-17 14:46:00,432: Output file named test04.mtf created
+2015-03-17 14:46:00,432: Wrote mtf magic number
+2015-03-17 14:46:00,432: Completed file encoding
+2015-03-17 14:46:00,432: File encoded successfully
+2015-03-17 14:46:00,432: Number of lines encoded: 1
+2015-03-17 14:46:00,432: Number of total words encoded: 4
+2015-03-17 14:46:00,433: Number of total unique words encoded: 4
+2015-03-17 14:46:00,487: In encode_main
+2015-03-17 14:46:00,487: Is proper input file
+2015-03-17 14:46:00,487: Name of file read is test05.txt
+2015-03-17 14:46:00,487: Encoding: test05.txt
+2015-03-17 14:46:00,488: Output file named test05.mtf created
+2015-03-17 14:46:00,488: Wrote mtf magic number
+2015-03-17 14:46:00,488: Completed file encoding
+2015-03-17 14:46:00,488: File encoded successfully
+2015-03-17 14:46:00,488: Number of lines encoded: 4
+2015-03-17 14:46:00,488: Number of total words encoded: 4
+2015-03-17 14:46:00,488: Number of total unique words encoded: 4
+2015-03-17 14:46:00,543: In encode_main
+2015-03-17 14:46:00,544: Is proper input file
+2015-03-17 14:46:00,544: Name of file read is test06.txt
+2015-03-17 14:46:00,544: Encoding: test06.txt
+2015-03-17 14:46:00,544: Output file named test06.mtf created
+2015-03-17 14:46:00,544: Wrote mtf magic number
+2015-03-17 14:46:00,545: Completed file encoding
+2015-03-17 14:46:00,545: File encoded successfully
+2015-03-17 14:46:00,545: Number of lines encoded: 15
+2015-03-17 14:46:00,545: Number of total words encoded: 13
+2015-03-17 14:46:00,545: Number of total unique words encoded: 4
+2015-03-17 14:46:00,597: In encode_main
+2015-03-17 14:46:00,597: Is proper input file
+2015-03-17 14:46:00,598: Name of file read is test07.txt
+2015-03-17 14:46:00,598: Encoding: test07.txt
+2015-03-17 14:46:00,598: Output file named test07.mtf created
+2015-03-17 14:46:00,599: Wrote mtf magic number
+2015-03-17 14:46:00,599: Completed file encoding
+2015-03-17 14:46:00,599: File encoded successfully
+2015-03-17 14:46:00,599: Number of lines encoded: 4
+2015-03-17 14:46:00,599: Number of total words encoded: 23
+2015-03-17 14:46:00,600: Number of total unique words encoded: 20
+2015-03-17 14:46:00,654: In encode_main
+2015-03-17 14:46:00,654: Is proper input file
+2015-03-17 14:46:00,655: Name of file read is test08.txt
+2015-03-17 14:46:00,655: Encoding: test08.txt
+2015-03-17 14:46:00,655: Output file named test08.mtf created
+2015-03-17 14:46:00,655: Wrote mtf magic number
+2015-03-17 14:46:00,656: Completed file encoding
+2015-03-17 14:46:00,656: File encoded successfully
+2015-03-17 14:46:00,656: Number of lines encoded: 9
+2015-03-17 14:46:00,656: Number of total words encoded: 44
+2015-03-17 14:46:00,656: Number of total unique words encoded: 32
+2015-03-17 14:46:00,709: In encode_main
+2015-03-17 14:46:00,709: Is proper input file
+2015-03-17 14:46:00,710: Name of file read is test09.txt
+2015-03-17 14:46:00,710: Encoding: test09.txt
+2015-03-17 14:46:00,710: Output file named test09.mtf created
+2015-03-17 14:46:00,710: Wrote mtf magic number
+2015-03-17 14:46:00,711: Completed file encoding
+2015-03-17 14:46:00,711: File encoded successfully
+2015-03-17 14:46:00,711: Number of lines encoded: 36
+2015-03-17 14:46:00,712: Number of total words encoded: 154
+2015-03-17 14:46:00,712: Number of total unique words encoded: 71
+2015-03-17 14:46:00,769: In encode_main
+2015-03-17 14:46:00,769: Is proper input file
+2015-03-17 14:46:00,770: Name of file read is test10.txt
+2015-03-17 14:46:00,771: Encoding: test10.txt
+2015-03-17 14:46:00,771: Output file named test10.mtf created
+2015-03-17 14:46:00,771: Wrote mtf magic number
+2015-03-17 14:46:00,773: Completed file encoding
+2015-03-17 14:46:00,773: File encoded successfully
+2015-03-17 14:46:00,773: Number of lines encoded: 72
+2015-03-17 14:46:00,773: Number of total words encoded: 329
+2015-03-17 14:46:00,773: Number of total unique words encoded: 112
+2015-03-17 14:46:00,830: In encode_main
+2015-03-17 14:46:00,830: Is proper input file
+2015-03-17 14:46:00,831: Name of file read is test11.txt
+2015-03-17 14:46:00,831: Encoding: test11.txt
+2015-03-17 14:46:00,831: Output file named test11.mtf created
+2015-03-17 14:46:00,831: Wrote mtf magic number
+2015-03-17 14:46:00,833: Completed file encoding
+2015-03-17 14:46:00,833: File encoded successfully
+2015-03-17 14:46:00,833: Number of lines encoded: 200
+2015-03-17 14:46:00,833: Number of total words encoded: 200
+2015-03-17 14:46:00,833: Number of total unique words encoded: 200
+2015-03-17 14:46:00,889: In encode_main
+2015-03-17 14:46:00,889: Is proper input file
+2015-03-17 14:46:00,890: Name of file read is test12.txt
+2015-03-17 14:46:00,891: Encoding: test12.txt
+2015-03-17 14:46:00,891: Output file named test12.mtf created
+2015-03-17 14:46:00,891: Wrote mtf magic number
+2015-03-17 14:46:00,892: Completed file encoding
+2015-03-17 14:46:00,892: File encoded successfully
+2015-03-17 14:46:00,893: Number of lines encoded: 20
+2015-03-17 14:46:00,893: Number of total words encoded: 200
+2015-03-17 14:46:00,893: Number of total unique words encoded: 200
+2015-03-17 14:46:00,950: In encode_main
+2015-03-17 14:46:00,950: Is proper input file
+2015-03-17 14:46:00,951: Name of file read is test13.txt
+2015-03-17 14:46:00,951: Encoding: test13.txt
+2015-03-17 14:46:00,951: Output file named test13.mtf created
+2015-03-17 14:46:00,951: Wrote mtf magic number
+2015-03-17 14:46:00,955: Completed file encoding
+2015-03-17 14:46:00,955: File encoded successfully
+2015-03-17 14:46:00,956: Number of lines encoded: 400
+2015-03-17 14:46:00,956: Number of total words encoded: 400
+2015-03-17 14:46:00,956: Number of total unique words encoded: 400
+2015-03-17 14:46:01,014: In encode_main
+2015-03-17 14:46:01,014: Is proper input file
+2015-03-17 14:46:01,015: Name of file read is test14.txt
+2015-03-17 14:46:01,015: Encoding: test14.txt
+2015-03-17 14:46:01,015: Output file named test14.mtf created
+2015-03-17 14:46:01,015: Wrote mtf magic number
+2015-03-17 14:46:01,019: Completed file encoding
+2015-03-17 14:46:01,019: File encoded successfully
+2015-03-17 14:46:01,019: Number of lines encoded: 43
+2015-03-17 14:46:01,019: Number of total words encoded: 400
+2015-03-17 14:46:01,019: Number of total unique words encoded: 400
+2015-03-17 14:46:01,077: In encode_main
+2015-03-17 14:46:01,077: Is proper input file
+2015-03-17 14:46:01,088: Name of file read is test15.txt
+2015-03-17 14:46:01,088: Encoding: test15.txt
+2015-03-17 14:46:01,088: Output file named test15.mtf created
+2015-03-17 14:46:01,088: Wrote mtf magic number
+2015-03-17 14:46:11,995: Completed file encoding
+2015-03-17 14:46:11,995: File encoded successfully
+2015-03-17 14:46:11,995: Number of lines encoded: 29999
+2015-03-17 14:46:11,995: Number of total words encoded: 29999
+2015-03-17 14:46:11,996: Number of total unique words encoded: 29999
+2015-03-17 14:46:12,070: In encode_main
+2015-03-17 14:46:12,070: Is proper input file
+2015-03-17 14:46:12,072: Name of file read is test16.txt
+2015-03-17 14:46:12,072: Encoding: test16.txt
+2015-03-17 14:46:12,072: Output file named test16.mtf created
+2015-03-17 14:46:12,072: Wrote mtf magic number
+2015-03-17 14:46:12,081: Completed file encoding
+2015-03-17 14:46:12,081: File encoded successfully
+2015-03-17 14:46:12,081: Number of lines encoded: 342
+2015-03-17 14:46:12,081: Number of total words encoded: 1620
+2015-03-17 14:46:12,082: Number of total unique words encoded: 251
+2015-03-17 14:46:12,141: In encode_main
+2015-03-17 14:46:12,141: Is proper input file
+2015-03-17 14:46:12,143: Name of file read is test17.txt
+2015-03-17 14:46:12,143: Encoding: test17.txt
+2015-03-17 14:46:12,143: Output file named test17.mtf created
+2015-03-17 14:46:12,143: Wrote mtf magic number
+2015-03-17 14:46:12,147: Completed file encoding
+2015-03-17 14:46:12,147: File encoded successfully
+2015-03-17 14:46:12,147: Number of lines encoded: 72
+2015-03-17 14:46:12,147: Number of total words encoded: 590
+2015-03-17 14:46:12,147: Number of total unique words encoded: 415
+2015-03-17 14:46:12,203: In encode_main
+2015-03-17 14:46:12,203: Is proper input file
+2015-03-17 14:46:12,218: Name of file read is test18.txt
+2015-03-17 14:46:12,219: Encoding: test18.txt
+2015-03-17 14:46:12,219: Output file named test18.mtf created
+2015-03-17 14:46:12,219: Wrote mtf magic number
+2015-03-17 14:46:12,477: Completed file encoding
+2015-03-17 14:46:12,477: File encoded successfully
+2015-03-17 14:46:12,477: Number of lines encoded: 979
+2015-03-17 14:46:12,478: Number of total words encoded: 8172
+2015-03-17 14:46:12,478: Number of total unique words encoded: 3504
+2015-03-17 14:46:12,543: In encode_main
+2015-03-17 14:46:12,543: Is proper input file
+2015-03-17 14:46:12,565: Name of file read is test19.txt
+2015-03-17 14:46:12,565: Encoding: test19.txt
+2015-03-17 14:46:12,565: Output file named test19.mtf created
+2015-03-17 14:46:12,565: Wrote mtf magic number
+2015-03-17 14:46:13,217: Completed file encoding
+2015-03-17 14:46:13,217: File encoded successfully
+2015-03-17 14:46:13,217: Number of lines encoded: 2622
+2015-03-17 14:46:13,218: Number of total words encoded: 17675
+2015-03-17 14:46:13,218: Number of total unique words encoded: 4905
+2015-03-17 14:46:35,040: In encode_main
+2015-03-17 14:46:35,040: Is proper input file
+2015-03-17 14:46:35,040: Name of file read is test00.txt
+2015-03-17 14:46:35,041: Encoding: test00.txt
+2015-03-17 14:46:35,041: Output file named test00.mtf created
+2015-03-17 14:46:35,041: Wrote mtf magic number
+2015-03-17 14:46:35,041: Completed file encoding
+2015-03-17 14:46:35,041: File encoded successfully
+2015-03-17 14:46:35,041: Number of lines encoded: 1
+2015-03-17 14:46:35,041: Number of total words encoded: 10
+2015-03-17 14:46:35,041: Number of total unique words encoded: 7
+2015-03-17 14:46:35,101: In encode_main
+2015-03-17 14:46:35,101: Is proper input file
+2015-03-17 14:46:35,101: Name of file read is test01.txt
+2015-03-17 14:46:35,101: Encoding: test01.txt
+2015-03-17 14:46:35,101: Output file named test01.mtf created
+2015-03-17 14:46:35,102: Wrote mtf magic number
+2015-03-17 14:46:35,102: Completed file encoding
+2015-03-17 14:46:35,102: File encoded successfully
+2015-03-17 14:46:35,102: Number of lines encoded: 1
+2015-03-17 14:46:35,102: Number of total words encoded: 1
+2015-03-17 14:46:35,102: Number of total unique words encoded: 1
+2015-03-17 14:46:35,160: In encode_main
+2015-03-17 14:46:35,160: Is proper input file
+2015-03-17 14:46:35,160: Name of file read is test02.txt
+2015-03-17 14:46:35,160: Encoding: test02.txt
+2015-03-17 14:46:35,161: Output file named test02.mtf created
+2015-03-17 14:46:35,161: Wrote mtf magic number
+2015-03-17 14:46:35,161: Completed file encoding
+2015-03-17 14:46:35,161: File encoded successfully
+2015-03-17 14:46:35,161: Number of lines encoded: 1
+2015-03-17 14:46:35,161: Number of total words encoded: 3
+2015-03-17 14:46:35,161: Number of total unique words encoded: 1
+2015-03-17 14:46:35,221: In encode_main
+2015-03-17 14:46:35,222: Is proper input file
+2015-03-17 14:46:35,222: Name of file read is test03.txt
+2015-03-17 14:46:35,222: Encoding: test03.txt
+2015-03-17 14:46:35,222: Output file named test03.mtf created
+2015-03-17 14:46:35,222: Wrote mtf magic number
+2015-03-17 14:46:35,222: Completed file encoding
+2015-03-17 14:46:35,222: File encoded successfully
+2015-03-17 14:46:35,222: Number of lines encoded: 3
+2015-03-17 14:46:35,222: Number of total words encoded: 3
+2015-03-17 14:46:35,223: Number of total unique words encoded: 1
+2015-03-17 14:46:35,279: In encode_main
+2015-03-17 14:46:35,280: Is proper input file
+2015-03-17 14:46:35,280: Name of file read is test04.txt
+2015-03-17 14:46:35,280: Encoding: test04.txt
+2015-03-17 14:46:35,280: Output file named test04.mtf created
+2015-03-17 14:46:35,280: Wrote mtf magic number
+2015-03-17 14:46:35,280: Completed file encoding
+2015-03-17 14:46:35,280: File encoded successfully
+2015-03-17 14:46:35,281: Number of lines encoded: 1
+2015-03-17 14:46:35,281: Number of total words encoded: 4
+2015-03-17 14:46:35,281: Number of total unique words encoded: 4
+2015-03-17 14:46:35,338: In encode_main
+2015-03-17 14:46:35,338: Is proper input file
+2015-03-17 14:46:35,338: Name of file read is test05.txt
+2015-03-17 14:46:35,338: Encoding: test05.txt
+2015-03-17 14:46:35,338: Output file named test05.mtf created
+2015-03-17 14:46:35,338: Wrote mtf magic number
+2015-03-17 14:46:35,339: Completed file encoding
+2015-03-17 14:46:35,339: File encoded successfully
+2015-03-17 14:46:35,339: Number of lines encoded: 4
+2015-03-17 14:46:35,339: Number of total words encoded: 4
+2015-03-17 14:46:35,339: Number of total unique words encoded: 4
+2015-03-17 14:46:35,395: In encode_main
+2015-03-17 14:46:35,395: Is proper input file
+2015-03-17 14:46:35,396: Name of file read is test06.txt
+2015-03-17 14:46:35,396: Encoding: test06.txt
+2015-03-17 14:46:35,396: Output file named test06.mtf created
+2015-03-17 14:46:35,396: Wrote mtf magic number
+2015-03-17 14:46:35,396: Completed file encoding
+2015-03-17 14:46:35,396: File encoded successfully
+2015-03-17 14:46:35,396: Number of lines encoded: 15
+2015-03-17 14:46:35,397: Number of total words encoded: 13
+2015-03-17 14:46:35,397: Number of total unique words encoded: 4
+2015-03-17 14:46:35,454: In encode_main
+2015-03-17 14:46:35,454: Is proper input file
+2015-03-17 14:46:35,454: Name of file read is test07.txt
+2015-03-17 14:46:35,454: Encoding: test07.txt
+2015-03-17 14:46:35,455: Output file named test07.mtf created
+2015-03-17 14:46:35,455: Wrote mtf magic number
+2015-03-17 14:46:35,455: Completed file encoding
+2015-03-17 14:46:35,455: File encoded successfully
+2015-03-17 14:46:35,455: Number of lines encoded: 4
+2015-03-17 14:46:35,455: Number of total words encoded: 23
+2015-03-17 14:46:35,455: Number of total unique words encoded: 20
+2015-03-17 14:46:35,542: In encode_main
+2015-03-17 14:46:35,543: Is proper input file
+2015-03-17 14:46:35,543: Name of file read is test08.txt
+2015-03-17 14:46:35,543: Encoding: test08.txt
+2015-03-17 14:46:35,543: Output file named test08.mtf created
+2015-03-17 14:46:35,543: Wrote mtf magic number
+2015-03-17 14:46:35,543: Completed file encoding
+2015-03-17 14:46:35,543: File encoded successfully
+2015-03-17 14:46:35,544: Number of lines encoded: 9
+2015-03-17 14:46:35,544: Number of total words encoded: 44
+2015-03-17 14:46:35,544: Number of total unique words encoded: 32
+2015-03-17 14:46:35,604: In encode_main
+2015-03-17 14:46:35,604: Is proper input file
+2015-03-17 14:46:35,604: Name of file read is test09.txt
+2015-03-17 14:46:35,604: Encoding: test09.txt
+2015-03-17 14:46:35,604: Output file named test09.mtf created
+2015-03-17 14:46:35,604: Wrote mtf magic number
+2015-03-17 14:46:35,605: Completed file encoding
+2015-03-17 14:46:35,605: File encoded successfully
+2015-03-17 14:46:35,605: Number of lines encoded: 36
+2015-03-17 14:46:35,605: Number of total words encoded: 154
+2015-03-17 14:46:35,605: Number of total unique words encoded: 71
+2015-03-17 14:46:35,663: In encode_main
+2015-03-17 14:46:35,663: Is proper input file
+2015-03-17 14:46:35,663: Name of file read is test10.txt
+2015-03-17 14:46:35,664: Encoding: test10.txt
+2015-03-17 14:46:35,664: Output file named test10.mtf created
+2015-03-17 14:46:35,664: Wrote mtf magic number
+2015-03-17 14:46:35,665: Completed file encoding
+2015-03-17 14:46:35,665: File encoded successfully
+2015-03-17 14:46:35,665: Number of lines encoded: 72
+2015-03-17 14:46:35,666: Number of total words encoded: 329
+2015-03-17 14:46:35,666: Number of total unique words encoded: 112
+2015-03-17 14:46:35,727: In encode_main
+2015-03-17 14:46:35,727: Is proper input file
+2015-03-17 14:46:35,727: Name of file read is test11.txt
+2015-03-17 14:46:35,727: Encoding: test11.txt
+2015-03-17 14:46:35,727: Output file named test11.mtf created
+2015-03-17 14:46:35,727: Wrote mtf magic number
+2015-03-17 14:46:35,729: Completed file encoding
+2015-03-17 14:46:35,729: File encoded successfully
+2015-03-17 14:46:35,729: Number of lines encoded: 200
+2015-03-17 14:46:35,729: Number of total words encoded: 200
+2015-03-17 14:46:35,729: Number of total unique words encoded: 200
+2015-03-17 14:46:35,788: In encode_main
+2015-03-17 14:46:35,789: Is proper input file
+2015-03-17 14:46:35,789: Name of file read is test12.txt
+2015-03-17 14:46:35,789: Encoding: test12.txt
+2015-03-17 14:46:35,789: Output file named test12.mtf created
+2015-03-17 14:46:35,789: Wrote mtf magic number
+2015-03-17 14:46:35,791: Completed file encoding
+2015-03-17 14:46:35,791: File encoded successfully
+2015-03-17 14:46:35,791: Number of lines encoded: 20
+2015-03-17 14:46:35,791: Number of total words encoded: 200
+2015-03-17 14:46:35,791: Number of total unique words encoded: 200
+2015-03-17 14:46:35,850: In encode_main
+2015-03-17 14:46:35,850: Is proper input file
+2015-03-17 14:46:35,850: Name of file read is test13.txt
+2015-03-17 14:46:35,851: Encoding: test13.txt
+2015-03-17 14:46:35,851: Output file named test13.mtf created
+2015-03-17 14:46:35,851: Wrote mtf magic number
+2015-03-17 14:46:35,855: Completed file encoding
+2015-03-17 14:46:35,855: File encoded successfully
+2015-03-17 14:46:35,855: Number of lines encoded: 400
+2015-03-17 14:46:35,855: Number of total words encoded: 400
+2015-03-17 14:46:35,855: Number of total unique words encoded: 400
+2015-03-17 14:46:35,912: In encode_main
+2015-03-17 14:46:35,913: Is proper input file
+2015-03-17 14:46:35,913: Name of file read is test14.txt
+2015-03-17 14:46:35,913: Encoding: test14.txt
+2015-03-17 14:46:35,913: Output file named test14.mtf created
+2015-03-17 14:46:35,913: Wrote mtf magic number
+2015-03-17 14:46:35,916: Completed file encoding
+2015-03-17 14:46:35,916: File encoded successfully
+2015-03-17 14:46:35,916: Number of lines encoded: 43
+2015-03-17 14:46:35,916: Number of total words encoded: 400
+2015-03-17 14:46:35,916: Number of total unique words encoded: 400
+2015-03-17 14:46:35,976: In encode_main
+2015-03-17 14:46:35,977: Is proper input file
+2015-03-17 14:46:35,977: Name of file read is test15.txt
+2015-03-17 14:46:35,977: Encoding: test15.txt
+2015-03-17 14:46:35,977: Output file named test15.mtf created
+2015-03-17 14:46:35,977: Wrote mtf magic number
+2015-03-17 14:46:46,712: Completed file encoding
+2015-03-17 14:46:46,712: File encoded successfully
+2015-03-17 14:46:46,712: Number of lines encoded: 29999
+2015-03-17 14:46:46,712: Number of total words encoded: 29999
+2015-03-17 14:46:46,713: Number of total unique words encoded: 29999
+2015-03-17 14:46:46,784: In encode_main
+2015-03-17 14:46:46,784: Is proper input file
+2015-03-17 14:46:46,784: Name of file read is test16.txt
+2015-03-17 14:46:46,784: Encoding: test16.txt
+2015-03-17 14:46:46,785: Output file named test16.mtf created
+2015-03-17 14:46:46,785: Wrote mtf magic number
+2015-03-17 14:46:46,796: Completed file encoding
+2015-03-17 14:46:46,796: File encoded successfully
+2015-03-17 14:46:46,796: Number of lines encoded: 342
+2015-03-17 14:46:46,796: Number of total words encoded: 1620
+2015-03-17 14:46:46,796: Number of total unique words encoded: 251
+2015-03-17 14:46:46,856: In encode_main
+2015-03-17 14:46:46,856: Is proper input file
+2015-03-17 14:46:46,856: Name of file read is test17.txt
+2015-03-17 14:46:46,856: Encoding: test17.txt
+2015-03-17 14:46:46,857: Output file named test17.mtf created
+2015-03-17 14:46:46,857: Wrote mtf magic number
+2015-03-17 14:46:46,861: Completed file encoding
+2015-03-17 14:46:46,861: File encoded successfully
+2015-03-17 14:46:46,861: Number of lines encoded: 72
+2015-03-17 14:46:46,861: Number of total words encoded: 590
+2015-03-17 14:46:46,861: Number of total unique words encoded: 415
+2015-03-17 14:46:46,925: In encode_main
+2015-03-17 14:46:46,925: Is proper input file
+2015-03-17 14:46:46,925: Name of file read is test18.txt
+2015-03-17 14:46:46,925: Encoding: test18.txt
+2015-03-17 14:46:46,925: Output file named test18.mtf created
+2015-03-17 14:46:46,925: Wrote mtf magic number
+2015-03-17 14:46:47,190: Completed file encoding
+2015-03-17 14:46:47,191: File encoded successfully
+2015-03-17 14:46:47,191: Number of lines encoded: 979
+2015-03-17 14:46:47,191: Number of total words encoded: 8172
+2015-03-17 14:46:47,191: Number of total unique words encoded: 3504
+2015-03-17 14:46:47,258: In encode_main
+2015-03-17 14:46:47,258: Is proper input file
+2015-03-17 14:46:47,258: Name of file read is test19.txt
+2015-03-17 14:46:47,258: Encoding: test19.txt
+2015-03-17 14:46:47,258: Output file named test19.mtf created
+2015-03-17 14:46:47,259: Wrote mtf magic number
+2015-03-17 14:46:47,906: Completed file encoding
+2015-03-17 14:46:47,906: File encoded successfully
+2015-03-17 14:46:47,906: Number of lines encoded: 2622
+2015-03-17 14:46:47,906: Number of total words encoded: 17675
+2015-03-17 14:46:47,906: Number of total unique words encoded: 4905
+2015-03-17 14:48:09,907: In encode_main
+2015-03-17 14:48:09,907: Is proper input file
+2015-03-17 14:48:09,907: Name of file read is test00.txt
+2015-03-17 14:48:09,907: Encoding: test00.txt
+2015-03-17 14:48:09,907: Output file named test00.mtf created
+2015-03-17 14:48:09,907: Wrote mtf magic number
+2015-03-17 14:48:09,907: Completed file encoding
+2015-03-17 14:48:09,907: File encoded successfully
+2015-03-17 14:48:09,908: Number of lines encoded: 1
+2015-03-17 14:48:09,908: Number of total words encoded: 10
+2015-03-17 14:48:09,908: Number of total unique words encoded: 7
+2015-03-17 14:48:09,969: In encode_main
+2015-03-17 14:48:09,969: Is proper input file
+2015-03-17 14:48:09,969: Name of file read is test01.txt
+2015-03-17 14:48:09,969: Encoding: test01.txt
+2015-03-17 14:48:09,969: Output file named test01.mtf created
+2015-03-17 14:48:09,970: Wrote mtf magic number
+2015-03-17 14:48:09,970: Completed file encoding
+2015-03-17 14:48:09,970: File encoded successfully
+2015-03-17 14:48:09,970: Number of lines encoded: 1
+2015-03-17 14:48:09,970: Number of total words encoded: 1
+2015-03-17 14:48:09,970: Number of total unique words encoded: 1
+2015-03-17 14:48:10,028: In encode_main
+2015-03-17 14:48:10,028: Is proper input file
+2015-03-17 14:48:10,029: Name of file read is test02.txt
+2015-03-17 14:48:10,029: Encoding: test02.txt
+2015-03-17 14:48:10,029: Output file named test02.mtf created
+2015-03-17 14:48:10,029: Wrote mtf magic number
+2015-03-17 14:48:10,029: Completed file encoding
+2015-03-17 14:48:10,029: File encoded successfully
+2015-03-17 14:48:10,029: Number of lines encoded: 1
+2015-03-17 14:48:10,029: Number of total words encoded: 3
+2015-03-17 14:48:10,029: Number of total unique words encoded: 1
+2015-03-17 14:48:10,086: In encode_main
+2015-03-17 14:48:10,086: Is proper input file
+2015-03-17 14:48:10,086: Name of file read is test03.txt
+2015-03-17 14:48:10,086: Encoding: test03.txt
+2015-03-17 14:48:10,086: Output file named test03.mtf created
+2015-03-17 14:48:10,086: Wrote mtf magic number
+2015-03-17 14:48:10,086: Completed file encoding
+2015-03-17 14:48:10,086: File encoded successfully
+2015-03-17 14:48:10,087: Number of lines encoded: 3
+2015-03-17 14:48:10,087: Number of total words encoded: 3
+2015-03-17 14:48:10,087: Number of total unique words encoded: 1
+2015-03-17 14:48:10,148: In encode_main
+2015-03-17 14:48:10,148: Is proper input file
+2015-03-17 14:48:10,148: Name of file read is test04.txt
+2015-03-17 14:48:10,148: Encoding: test04.txt
+2015-03-17 14:48:10,148: Output file named test04.mtf created
+2015-03-17 14:48:10,148: Wrote mtf magic number
+2015-03-17 14:48:10,149: Completed file encoding
+2015-03-17 14:48:10,149: File encoded successfully
+2015-03-17 14:48:10,149: Number of lines encoded: 1
+2015-03-17 14:48:10,149: Number of total words encoded: 4
+2015-03-17 14:48:10,149: Number of total unique words encoded: 4
+2015-03-17 14:48:10,208: In encode_main
+2015-03-17 14:48:10,208: Is proper input file
+2015-03-17 14:48:10,208: Name of file read is test05.txt
+2015-03-17 14:48:10,208: Encoding: test05.txt
+2015-03-17 14:48:10,208: Output file named test05.mtf created
+2015-03-17 14:48:10,208: Wrote mtf magic number
+2015-03-17 14:48:10,209: Completed file encoding
+2015-03-17 14:48:10,209: File encoded successfully
+2015-03-17 14:48:10,209: Number of lines encoded: 4
+2015-03-17 14:48:10,209: Number of total words encoded: 4
+2015-03-17 14:48:10,209: Number of total unique words encoded: 4
+2015-03-17 14:48:10,301: In encode_main
+2015-03-17 14:48:10,302: Is proper input file
+2015-03-17 14:48:10,302: Name of file read is test06.txt
+2015-03-17 14:48:10,302: Encoding: test06.txt
+2015-03-17 14:48:10,302: Output file named test06.mtf created
+2015-03-17 14:48:10,302: Wrote mtf magic number
+2015-03-17 14:48:10,302: Completed file encoding
+2015-03-17 14:48:10,302: File encoded successfully
+2015-03-17 14:48:10,303: Number of lines encoded: 15
+2015-03-17 14:48:10,303: Number of total words encoded: 13
+2015-03-17 14:48:10,303: Number of total unique words encoded: 4
+2015-03-17 14:48:10,362: In encode_main
+2015-03-17 14:48:10,362: Is proper input file
+2015-03-17 14:48:10,362: Name of file read is test07.txt
+2015-03-17 14:48:10,362: Encoding: test07.txt
+2015-03-17 14:48:10,363: Output file named test07.mtf created
+2015-03-17 14:48:10,363: Wrote mtf magic number
+2015-03-17 14:48:10,363: Completed file encoding
+2015-03-17 14:48:10,363: File encoded successfully
+2015-03-17 14:48:10,363: Number of lines encoded: 4
+2015-03-17 14:48:10,363: Number of total words encoded: 23
+2015-03-17 14:48:10,363: Number of total unique words encoded: 20
+2015-03-17 14:48:10,421: In encode_main
+2015-03-17 14:48:10,421: Is proper input file
+2015-03-17 14:48:10,421: Name of file read is test08.txt
+2015-03-17 14:48:10,421: Encoding: test08.txt
+2015-03-17 14:48:10,421: Output file named test08.mtf created
+2015-03-17 14:48:10,421: Wrote mtf magic number
+2015-03-17 14:48:10,422: Completed file encoding
+2015-03-17 14:48:10,422: File encoded successfully
+2015-03-17 14:48:10,422: Number of lines encoded: 9
+2015-03-17 14:48:10,422: Number of total words encoded: 44
+2015-03-17 14:48:10,422: Number of total unique words encoded: 32
+2015-03-17 14:48:10,481: In encode_main
+2015-03-17 14:48:10,481: Is proper input file
+2015-03-17 14:48:10,481: Name of file read is test09.txt
+2015-03-17 14:48:10,481: Encoding: test09.txt
+2015-03-17 14:48:10,482: Output file named test09.mtf created
+2015-03-17 14:48:10,482: Wrote mtf magic number
+2015-03-17 14:48:10,483: Completed file encoding
+2015-03-17 14:48:10,483: File encoded successfully
+2015-03-17 14:48:10,483: Number of lines encoded: 36
+2015-03-17 14:48:10,483: Number of total words encoded: 154
+2015-03-17 14:48:10,483: Number of total unique words encoded: 71
+2015-03-17 14:48:10,543: In encode_main
+2015-03-17 14:48:10,543: Is proper input file
+2015-03-17 14:48:10,544: Name of file read is test10.txt
+2015-03-17 14:48:10,544: Encoding: test10.txt
+2015-03-17 14:48:10,544: Output file named test10.mtf created
+2015-03-17 14:48:10,544: Wrote mtf magic number
+2015-03-17 14:48:10,545: Completed file encoding
+2015-03-17 14:48:10,545: File encoded successfully
+2015-03-17 14:48:10,545: Number of lines encoded: 72
+2015-03-17 14:48:10,546: Number of total words encoded: 329
+2015-03-17 14:48:10,546: Number of total unique words encoded: 112
+2015-03-17 14:48:10,606: In encode_main
+2015-03-17 14:48:10,606: Is proper input file
+2015-03-17 14:48:10,607: Name of file read is test11.txt
+2015-03-17 14:48:10,607: Encoding: test11.txt
+2015-03-17 14:48:10,607: Output file named test11.mtf created
+2015-03-17 14:48:10,607: Wrote mtf magic number
+2015-03-17 14:48:10,608: Completed file encoding
+2015-03-17 14:48:10,608: File encoded successfully
+2015-03-17 14:48:10,608: Number of lines encoded: 200
+2015-03-17 14:48:10,609: Number of total words encoded: 200
+2015-03-17 14:48:10,609: Number of total unique words encoded: 200
+2015-03-17 14:48:10,667: In encode_main
+2015-03-17 14:48:10,667: Is proper input file
+2015-03-17 14:48:10,668: Name of file read is test12.txt
+2015-03-17 14:48:10,668: Encoding: test12.txt
+2015-03-17 14:48:10,668: Output file named test12.mtf created
+2015-03-17 14:48:10,668: Wrote mtf magic number
+2015-03-17 14:48:10,670: Completed file encoding
+2015-03-17 14:48:10,670: File encoded successfully
+2015-03-17 14:48:10,670: Number of lines encoded: 20
+2015-03-17 14:48:10,670: Number of total words encoded: 200
+2015-03-17 14:48:10,670: Number of total unique words encoded: 200
+2015-03-17 14:48:10,730: In encode_main
+2015-03-17 14:48:10,730: Is proper input file
+2015-03-17 14:48:10,730: Name of file read is test13.txt
+2015-03-17 14:48:10,730: Encoding: test13.txt
+2015-03-17 14:48:10,730: Output file named test13.mtf created
+2015-03-17 14:48:10,731: Wrote mtf magic number
+2015-03-17 14:48:10,734: Completed file encoding
+2015-03-17 14:48:10,735: File encoded successfully
+2015-03-17 14:48:10,735: Number of lines encoded: 400
+2015-03-17 14:48:10,735: Number of total words encoded: 400
+2015-03-17 14:48:10,735: Number of total unique words encoded: 400
+2015-03-17 14:48:10,795: In encode_main
+2015-03-17 14:48:10,795: Is proper input file
+2015-03-17 14:48:10,796: Name of file read is test14.txt
+2015-03-17 14:48:10,796: Encoding: test14.txt
+2015-03-17 14:48:10,796: Output file named test14.mtf created
+2015-03-17 14:48:10,796: Wrote mtf magic number
+2015-03-17 14:48:10,800: Completed file encoding
+2015-03-17 14:48:10,800: File encoded successfully
+2015-03-17 14:48:10,800: Number of lines encoded: 43
+2015-03-17 14:48:10,801: Number of total words encoded: 400
+2015-03-17 14:48:10,801: Number of total unique words encoded: 400
+2015-03-17 14:48:10,862: In encode_main
+2015-03-17 14:48:10,862: Is proper input file
+2015-03-17 14:48:10,863: Name of file read is test15.txt
+2015-03-17 14:48:10,863: Encoding: test15.txt
+2015-03-17 14:48:10,863: Output file named test15.mtf created
+2015-03-17 14:48:10,863: Wrote mtf magic number
+2015-03-17 14:48:21,681: Completed file encoding
+2015-03-17 14:48:21,681: File encoded successfully
+2015-03-17 14:48:21,681: Number of lines encoded: 29999
+2015-03-17 14:48:21,681: Number of total words encoded: 29999
+2015-03-17 14:48:21,682: Number of total unique words encoded: 29999
+2015-03-17 14:48:21,754: In encode_main
+2015-03-17 14:48:21,755: Is proper input file
+2015-03-17 14:48:21,755: Name of file read is test16.txt
+2015-03-17 14:48:21,755: Encoding: test16.txt
+2015-03-17 14:48:21,755: Output file named test16.mtf created
+2015-03-17 14:48:21,755: Wrote mtf magic number
+2015-03-17 14:48:21,766: Completed file encoding
+2015-03-17 14:48:21,766: File encoded successfully
+2015-03-17 14:48:21,766: Number of lines encoded: 342
+2015-03-17 14:48:21,767: Number of total words encoded: 1620
+2015-03-17 14:48:21,767: Number of total unique words encoded: 251
+2015-03-17 14:48:21,826: In encode_main
+2015-03-17 14:48:21,827: Is proper input file
+2015-03-17 14:48:21,827: Name of file read is test17.txt
+2015-03-17 14:48:21,827: Encoding: test17.txt
+2015-03-17 14:48:21,827: Output file named test17.mtf created
+2015-03-17 14:48:21,827: Wrote mtf magic number
+2015-03-17 14:48:21,831: Completed file encoding
+2015-03-17 14:48:21,831: File encoded successfully
+2015-03-17 14:48:21,832: Number of lines encoded: 72
+2015-03-17 14:48:21,832: Number of total words encoded: 590
+2015-03-17 14:48:21,832: Number of total unique words encoded: 415
+2015-03-17 14:48:21,894: In encode_main
+2015-03-17 14:48:21,894: Is proper input file
+2015-03-17 14:48:21,895: Name of file read is test18.txt
+2015-03-17 14:48:21,895: Encoding: test18.txt
+2015-03-17 14:48:21,895: Output file named test18.mtf created
+2015-03-17 14:48:21,895: Wrote mtf magic number
+2015-03-17 14:48:22,150: Completed file encoding
+2015-03-17 14:48:22,150: File encoded successfully
+2015-03-17 14:48:22,151: Number of lines encoded: 979
+2015-03-17 14:48:22,151: Number of total words encoded: 8172
+2015-03-17 14:48:22,151: Number of total unique words encoded: 3504
+2015-03-17 14:48:22,220: In encode_main
+2015-03-17 14:48:22,220: Is proper input file
+2015-03-17 14:48:22,221: Name of file read is test19.txt
+2015-03-17 14:48:22,221: Encoding: test19.txt
+2015-03-17 14:48:22,221: Output file named test19.mtf created
+2015-03-17 14:48:22,221: Wrote mtf magic number
+2015-03-17 14:48:22,867: Completed file encoding
+2015-03-17 14:48:22,867: File encoded successfully
+2015-03-17 14:48:22,867: Number of lines encoded: 2622
+2015-03-17 14:48:22,867: Number of total words encoded: 17675
+2015-03-17 14:48:22,867: Number of total unique words encoded: 4905
+2015-03-17 14:49:09,537: In decode_main
+2015-03-17 14:49:09,537: Is proper input file
+2015-03-17 14:49:09,537: Decoding: test00.mtf
+2015-03-17 14:49:09,538: Input file read
+2015-03-17 14:49:09,538: Output file name is: test00.txt
+2015-03-17 14:49:09,539: File decoded successfully
+2015-03-17 14:49:09,539: Number of lines decoded: 1
+2015-03-17 14:49:09,539: Number of total words decoded: 10
+2015-03-17 14:49:09,539: Number of total unique words decoded: 7
+2015-03-17 14:49:09,602: In decode_main
+2015-03-17 14:49:09,602: Is proper input file
+2015-03-17 14:49:09,602: Decoding: test01.mtf
+2015-03-17 14:49:09,603: Input file read
+2015-03-17 14:49:09,603: Output file name is: test01.txt
+2015-03-17 14:49:09,603: File decoded successfully
+2015-03-17 14:49:09,603: Number of lines decoded: 1
+2015-03-17 14:49:09,604: Number of total words decoded: 1
+2015-03-17 14:49:09,604: Number of total unique words decoded: 1
+2015-03-17 14:49:09,665: In decode_main
+2015-03-17 14:49:09,665: Is proper input file
+2015-03-17 14:49:09,665: Decoding: test02.mtf
+2015-03-17 14:49:09,666: Input file read
+2015-03-17 14:49:09,666: Output file name is: test02.txt
+2015-03-17 14:49:09,666: File decoded successfully
+2015-03-17 14:49:09,666: Number of lines decoded: 1
+2015-03-17 14:49:09,666: Number of total words decoded: 3
+2015-03-17 14:49:09,666: Number of total unique words decoded: 1
+2015-03-17 14:49:09,730: In decode_main
+2015-03-17 14:49:09,730: Is proper input file
+2015-03-17 14:49:09,730: Decoding: test03.mtf
+2015-03-17 14:49:09,731: Input file read
+2015-03-17 14:49:09,731: Output file name is: test03.txt
+2015-03-17 14:49:09,731: File decoded successfully
+2015-03-17 14:49:09,731: Number of lines decoded: 3
+2015-03-17 14:49:09,731: Number of total words decoded: 3
+2015-03-17 14:49:09,731: Number of total unique words decoded: 1
+2015-03-17 14:49:09,793: In decode_main
+2015-03-17 14:49:09,793: Is proper input file
+2015-03-17 14:49:09,794: Decoding: test04.mtf
+2015-03-17 14:49:09,794: Input file read
+2015-03-17 14:49:09,794: Output file name is: test04.txt
+2015-03-17 14:49:09,794: File decoded successfully
+2015-03-17 14:49:09,795: Number of lines decoded: 1
+2015-03-17 14:49:09,795: Number of total words decoded: 4
+2015-03-17 14:49:09,795: Number of total unique words decoded: 4
+2015-03-17 14:49:09,854: In decode_main
+2015-03-17 14:49:09,854: Is proper input file
+2015-03-17 14:49:09,854: Decoding: test05.mtf
+2015-03-17 14:49:09,855: Input file read
+2015-03-17 14:49:09,855: Output file name is: test05.txt
+2015-03-17 14:49:09,855: File decoded successfully
+2015-03-17 14:49:09,855: Number of lines decoded: 4
+2015-03-17 14:49:09,856: Number of total words decoded: 4
+2015-03-17 14:49:09,856: Number of total unique words decoded: 4
+2015-03-17 14:49:09,918: In decode_main
+2015-03-17 14:49:09,918: Is proper input file
+2015-03-17 14:49:09,918: Decoding: test06.mtf
+2015-03-17 14:49:09,919: Input file read
+2015-03-17 14:49:09,919: Output file name is: test06.txt
+2015-03-17 14:49:09,919: File decoded successfully
+2015-03-17 14:49:09,919: Number of lines decoded: 15
+2015-03-17 14:49:09,919: Number of total words decoded: 13
+2015-03-17 14:49:09,919: Number of total unique words decoded: 4
+2015-03-17 14:49:09,982: In decode_main
+2015-03-17 14:49:09,982: Is proper input file
+2015-03-17 14:49:09,982: Decoding: test07.mtf
+2015-03-17 14:49:09,983: Input file read
+2015-03-17 14:49:09,983: Output file name is: test07.txt
+2015-03-17 14:49:09,984: File decoded successfully
+2015-03-17 14:49:09,984: Number of lines decoded: 4
+2015-03-17 14:49:09,984: Number of total words decoded: 23
+2015-03-17 14:49:09,984: Number of total unique words decoded: 20
+2015-03-17 14:49:10,046: In decode_main
+2015-03-17 14:49:10,046: Is proper input file
+2015-03-17 14:49:10,046: Decoding: test08.mtf
+2015-03-17 14:49:10,047: Input file read
+2015-03-17 14:49:10,048: Output file name is: test08.txt
+2015-03-17 14:49:10,048: File decoded successfully
+2015-03-17 14:49:10,048: Number of lines decoded: 9
+2015-03-17 14:49:10,048: Number of total words decoded: 44
+2015-03-17 14:49:10,048: Number of total unique words decoded: 32
+2015-03-17 14:49:10,112: In decode_main
+2015-03-17 14:49:10,112: Is proper input file
+2015-03-17 14:49:10,113: Decoding: test09.mtf
+2015-03-17 14:49:10,113: Input file read
+2015-03-17 14:49:10,114: Output file name is: test09.txt
+2015-03-17 14:49:10,114: File decoded successfully
+2015-03-17 14:49:10,115: Number of lines decoded: 36
+2015-03-17 14:49:10,115: Number of total words decoded: 154
+2015-03-17 14:49:10,115: Number of total unique words decoded: 71
+2015-03-17 14:49:10,177: In decode_main
+2015-03-17 14:49:10,177: Is proper input file
+2015-03-17 14:49:10,177: Decoding: test10.mtf
+2015-03-17 14:49:10,178: Input file read
+2015-03-17 14:49:10,178: Output file name is: test10.txt
+2015-03-17 14:49:10,180: File decoded successfully
+2015-03-17 14:49:10,180: Number of lines decoded: 72
+2015-03-17 14:49:10,180: Number of total words decoded: 329
+2015-03-17 14:49:10,180: Number of total unique words decoded: 112
+2015-03-17 14:49:10,241: In decode_main
+2015-03-17 14:49:10,242: Is proper input file
+2015-03-17 14:49:10,242: Decoding: test11.mtf
+2015-03-17 14:49:10,243: Input file read
+2015-03-17 14:49:10,243: Output file name is: test11.txt
+2015-03-17 14:49:10,245: File decoded successfully
+2015-03-17 14:49:10,245: Number of lines decoded: 200
+2015-03-17 14:49:10,245: Number of total words decoded: 200
+2015-03-17 14:49:10,245: Number of total unique words decoded: 200
+2015-03-17 14:49:10,307: In decode_main
+2015-03-17 14:49:10,308: Is proper input file
+2015-03-17 14:49:10,308: Decoding: test12.mtf
+2015-03-17 14:49:10,309: Input file read
+2015-03-17 14:49:10,309: Output file name is: test12.txt
+2015-03-17 14:49:10,311: File decoded successfully
+2015-03-17 14:49:10,311: Number of lines decoded: 20
+2015-03-17 14:49:10,311: Number of total words decoded: 200
+2015-03-17 14:49:10,311: Number of total unique words decoded: 200
+2015-03-17 14:49:10,375: In decode_main
+2015-03-17 14:49:10,375: Is proper input file
+2015-03-17 14:49:10,376: Decoding: test13.mtf
+2015-03-17 14:49:10,376: Input file read
+2015-03-17 14:49:10,377: Output file name is: test13.txt
+2015-03-17 14:49:10,380: File decoded successfully
+2015-03-17 14:49:10,380: Number of lines decoded: 400
+2015-03-17 14:49:10,380: Number of total words decoded: 400
+2015-03-17 14:49:10,380: Number of total unique words decoded: 400
+2015-03-17 14:49:10,442: In decode_main
+2015-03-17 14:49:10,442: Is proper input file
+2015-03-17 14:49:10,442: Decoding: test14.mtf
+2015-03-17 14:49:10,443: Input file read
+2015-03-17 14:49:10,443: Output file name is: test14.txt
+2015-03-17 14:49:10,445: File decoded successfully
+2015-03-17 14:49:10,445: Number of lines decoded: 43
+2015-03-17 14:49:10,445: Number of total words decoded: 400
+2015-03-17 14:49:10,445: Number of total unique words decoded: 400
+2015-03-17 14:49:10,508: In decode_main
+2015-03-17 14:49:10,508: Is proper input file
+2015-03-17 14:49:10,508: Decoding: test15.mtf
+2015-03-17 14:49:10,519: Input file read
+2015-03-17 14:49:10,519: Output file name is: test15.txt
+2015-03-17 14:49:11,215: File decoded successfully
+2015-03-17 14:49:11,215: Number of lines decoded: 29999
+2015-03-17 14:49:11,215: Number of total words decoded: 29999
+2015-03-17 14:49:11,215: Number of total unique words decoded: 29999
+2015-03-17 14:49:11,292: In decode_main
+2015-03-17 14:49:11,292: Is proper input file
+2015-03-17 14:49:11,292: Decoding: test16.mtf
+2015-03-17 14:49:11,293: Input file read
+2015-03-17 14:49:11,294: Output file name is: test16.txt
+2015-03-17 14:49:11,299: File decoded successfully
+2015-03-17 14:49:11,299: Number of lines decoded: 342
+2015-03-17 14:49:11,299: Number of total words decoded: 1620
+2015-03-17 14:49:11,299: Number of total unique words decoded: 251
+2015-03-17 14:49:11,367: In decode_main
+2015-03-17 14:49:11,368: Is proper input file
+2015-03-17 14:49:11,368: Decoding: test17.mtf
+2015-03-17 14:49:11,369: Input file read
+2015-03-17 14:49:11,370: Output file name is: test17.txt
+2015-03-17 14:49:11,375: File decoded successfully
+2015-03-17 14:49:11,375: Number of lines decoded: 72
+2015-03-17 14:49:11,376: Number of total words decoded: 590
+2015-03-17 14:49:11,376: Number of total unique words decoded: 415
+2015-03-17 14:49:11,440: In decode_main
+2015-03-17 14:49:11,440: Is proper input file
+2015-03-17 14:49:11,441: Decoding: test18.mtf
+2015-03-17 14:49:11,449: Input file read
+2015-03-17 14:49:11,449: Output file name is: test18.txt
+2015-03-17 14:49:11,523: File decoded successfully
+2015-03-17 14:49:11,523: Number of lines decoded: 979
+2015-03-17 14:49:11,523: Number of total words decoded: 8172
+2015-03-17 14:49:11,523: Number of total unique words decoded: 3504
+2015-03-17 14:49:11,599: In decode_main
+2015-03-17 14:49:11,599: Is proper input file
+2015-03-17 14:49:11,599: Decoding: test19.mtf
+2015-03-17 14:49:11,607: Input file read
+2015-03-17 14:49:11,608: Output file name is: test19.txt
+2015-03-17 14:49:11,744: File decoded successfully
+2015-03-17 14:49:11,744: Number of lines decoded: 2622
+2015-03-17 14:49:11,744: Number of total words decoded: 17675
+2015-03-17 14:49:11,744: Number of total unique words decoded: 4905

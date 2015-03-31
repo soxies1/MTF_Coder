@@ -1,0 +1,4 @@
+2015-03-09 12:12:13,162: In decode_main
+2015-03-09 12:12:13,162: Input file read
+2015-03-09 12:12:13,163: Output file name is: ../testresults/test19.txt
+2015-03-09 12:12:13,163: Error reason: The input file was not a not a mtf file, cannot decode

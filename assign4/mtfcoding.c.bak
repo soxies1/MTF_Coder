@@ -1,0 +1,150 @@
+#include <assert.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include "mtfcoding.h"
+
+
+
+int count = 0;
+
+typedef struct Word Word;
+struct Word
+{
+	char *val;
+};
+
+
+struct Dict{	
+	int nval;
+	int max;
+	Word *word;
+} dict;
+
+enum { DICTINIT = 1, DICTGROW = 2} ;
+
+
+Word *new_word(char *name)
+{
+ Word *temp;
+ temp = (Word *)malloc(sizeof(Word));
+ if (temp == NULL) {
+ fprintf(stderr, "Error mallocing a Word");
+ exit(1);
+ }
+ /* temp->name === (*temp).name */
+ temp->val = (char *)malloc((strlen(name)+1) * sizeof(char));
+ if (temp->val == NULL) {
+ fprintf(stderr, "Error mallocing a memory for string");
+ exit(1);
+ }
+ strncpy(temp->val, name, strlen(name)+1);
+ return temp;
+} 
+
+void addname(Word newname)
+{
+ 	Word *nvp;
+ 	if (dict.word == NULL) { /* first use of array */
+ 		dict.word = (Word *) malloc(DICTINIT * sizeof(Word));
+ 		if (dict.word == NULL) { exit(1); }
+ 		dict.max = DICTINIT;
+ 		dict.nval = 0;
+ 	} else if (dict.nval >= dict.max) {
+ 		nvp = (Word *) realloc(dict.word, (DICTGROW * dict.max) * sizeof(Word));
+		 if (nvp == NULL) { exit(1); }
+		 dict.max = DICTGROW * dict.max;
+		 dict.word = nvp;
+	 }
+	 dict.word[dict.nval] = newname;
+	 dict.nval++;
+	return;
+} 
+
+
+void add_to_dict(char* word, FILE* output){
+	int i = 0;
+	if(!(*word)) return;
+	Word *temp = new_word(word);
+	if(count == 0){
+		 addname(*temp);
+		count++;
+		fputc(129, output);
+		fprintf(output,  temp->val);
+		return;
+	}else{
+		while(i < count){
+			if((strcmp(&(dict.word[i]), word)) == 0){
+				fputc(i+129, output);
+				if (i==0){
+				}else{
+					
+					
+				}return;
+				
+			}else{
+				i++;
+			}
+			
+			
+		}
+	addname(*temp);
+	count++;
+	fprintf(output, temp->val);
+		
+		
+	}
+	return;
+
+}
+
+
+void sub_encode(char* line, FILE *output){
+	printf("got to here, and line is: %s", line);
+	char* pos;
+	char* t;
+	t = strtok(line, " ");
+	while (t) {
+		if((pos=strchr(t,'\n')) != NULL)
+			*pos = '\0';
+			add_to_dict(t, output);
+			t = strtok(NULL, " ");
+		}
+		fputc('\n', output);
+
+	printf("%s ", *dict.word);	
+	
+	return;
+}
+
+int encode(FILE *input, FILE *output) {
+	fputc(0xfa, output);
+	fputc(0xce, output);
+	fputc(0xfa, output);
+	fputc(0xdf, output);
+	char* line = NULL;
+	size_t linesize = 0;
+	ssize_t linelen;
+	while((linelen = getline(&line, &linesize, input)) > 0){
+	sub_encode(line, output);
+	free(line);
+	line = NULL;
+	}    
+	
+	return 0;
+}
+
+
+
+int decode(FILE *input, FILE *output) {
+    
+	char* line = NULL;
+	size_t linesize =0;
+	ssize_t linelen=0;
+	while((linelen=getline(&line, &linesize, input)) > 0){
+	//function(linebuf, linesize);
+	free(line);
+	line = NULL;
+	}
+	return 0;    
+}
